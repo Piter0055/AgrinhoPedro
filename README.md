@@ -17,10 +17,10 @@ Cabeçalho (Header):
 * Navegação com links internos para as seções "Problemas", "Consequências". "Reflexão" e "Conclusão".
 
 #### Problemas:
-Seção detalhando as principais problemas causados pela queda de temperatura:
-Infraestrutura afetada
-Iterrupção no fronecimanto de energia elétrica
-Prejuízos na agricultura
+* Seção detalhando as principais problemas causados pela queda de temperatura:
+* Infraestrutura afetada
+* Iterrupção no fronecimanto de energia elétrica
+* Prejuízos na agricultura
 
 #### Consequências:
 Lista das consequências diretas da queda de temperatura, como:
@@ -29,10 +29,10 @@ Lista das consequências diretas da queda de temperatura, como:
 * Prejuízo econômico para pequenos produtores rurais
 #### Reflexão:
 * O episódio reforça a necessidade de:
-Investimentos em infraestrutura adaptada ao clima extremo.
-Políticas públicas de prevenção e resposta rápida.
-Educação e conscientização da população sobre os riscos climáticos.
-Monitoramento meteorológico mais eficiente para alertas e planejamento.
+* Investimentos em infraestrutura adaptada ao clima extremo.
+* Políticas públicas de prevenção e resposta rápida.
+* Educação e conscientização da população sobre os riscos climáticos.
+* Monitoramento meteorológico mais eficiente para alertas e planejamento.
 
 #### Conclusão:
 A queda de neve em São Joaquim, apesar de visualmente impressionante, é um alerta. O clima instável e os eventos extremos estão se tornando mais frequentes, exigindo ações imediatas do poder público, da ciência e da sociedade. Sem medidas eficazes, as consequências tendem a ser cada vez mais graves para o meio ambiente, a economia e a vida das pessoas.
