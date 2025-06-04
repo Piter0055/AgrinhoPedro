@@ -2,11 +2,11 @@
 
 /* Variáveis */
 :root {
-    --primary-color: #026773;
-    --secondary-color: #3CA6A6;
-    --text-color: #024959;
-    --background-color: #F2E3D5;
-    --button-hover: #012E40;
+    --primary-color: #000000;
+    --secondary-color: #1d4949;
+    --text-color: #000000;
+    --background-color: #e0dad6;
+    --button-hover: #1714b8;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
 }
@@ -23,8 +23,9 @@
 body {
     background-color: var(--background-color);
     color: var(--text-color);
-    line-height: 1.6;
+    line-height: 1.5;
 }
+ 
 
 h3 {
     margin-top: 25px;
